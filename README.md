@@ -32,7 +32,7 @@ There are plenty of very nice projects and general articles on this IC out there
 - Use of common and cheap components
 
 # Module and Circuit Design
-Given the high amount of details Curtis Electromusic put in the [IC datasheet](https://www.bustedgear.com/images/datasheets/CEM3340-3345.pdf), it's not surprising than that most online circuit designs for modules built around the CEM3340 (or it's clones) are heavily based on those found there.
+Given the high amount of details Curtis Electromusic put in the [IC datasheet](https://www.bustedgear.com/images/datasheets/CEM3340-3345.pdf), it's not surprising that most online circuit designs for modules built around the CEM3340 (or it's clones) are heavily based on it.
 
 Modifications such as the use of buffers at the (already in-chip buffered) waves out, the normalization of waves amplitudes and some component value adjustment to face supply variations are common (and "due", if you ask me).
 
